@@ -30,7 +30,6 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
-    width: 100%;
 }
 
 nav ul {
@@ -89,4 +88,7 @@ th {
 .service {
     display: inline-block;
     text-align: center;
+}
+ul {
+    list-style-type: none;
 }
